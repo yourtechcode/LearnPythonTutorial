@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "413700706146",
+    "firebase_url": "https://python-notification-e5253.firebaseio.com",
+    "project_id": "python-notification-e5253",
+    "storage_bucket": "python-notification-e5253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413700706146:android:524f95f2852a5ffd",
+        "android_client_info": {
+          "package_name": "com.yourtechcode.learnpython_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413700706146-6b4qhd93sqoaffv59pipgeeromebbusr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qIQlyutbova1XrTtvSMYdXxdnP8-aLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
